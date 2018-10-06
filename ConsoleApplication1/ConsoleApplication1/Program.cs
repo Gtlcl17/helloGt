@@ -13,6 +13,7 @@ namespace ConsoleApplication1
 			Console.WriteLine("Hello world");
 			Console.WriteLine("MiamMiam");
 			Console.WriteLine("Je mange des frites");
+			Console.WriteLine("Et j'écris dans ma nouvelle branche");
 		}
 	}
 }
